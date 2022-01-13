@@ -7,7 +7,7 @@
 
 - 🔭 I’m a **B.Tech student from GGSIPU University, Delhi.**
 
-- 🌱 I’m currently learning **back-end development.**
+- 🌱 I’m currently focusing on **DSA.**
 
 - 👯 I’m looking forward to **being familiar with various interesting projects.**
 
