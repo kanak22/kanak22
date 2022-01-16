@@ -1,7 +1,7 @@
 <h1 align="center">Heya!🤗,I'm Kanak</h1>
 <h3 align="center">A lively learner, who is keen to to explore and experiment new stuffs.</h3>
 
-<img align="right" alt="Coding" width="400" height="400" src="./pixton-avatar-headshot.png">
+<img align="right" alt="Coding" width="400" height="300" src="./pixton-avatar-headshot.png">
 
 <p align="center">
 <a href="https://twitter.com/kanak2212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanak2212" height="30" width="40" /></a>
