@@ -6,7 +6,7 @@
 <h1 align="center">Heya!🤗, I'm Kanak</h1>
 <h3 align="center">A lively learner, who is keen to to explore and experiment new stuffs.</h3>
 
-<img align="right" height="300" width="300" src="./laptop.png"/>
+<img align="right" height="400" width="400" src="./laptop.png"/>
 
 <p align="center">
 <a href="https://twitter.com/kanak2212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanak2212" height="30" width="40" /></a>
@@ -33,4 +33,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kanak22&show_icons=true&locale=en&layout=compact" alt="kanak22" /></p>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=kanak22&show_icons=true&locale=en" height="200" width="350" alt="kanak22" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kanak22&" alt="kanak22" height="200" width="350" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kanak22&" alt="kanak22"  width="100%" /></p>
