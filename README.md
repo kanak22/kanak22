@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently focusing on **DSA.**
 
-- 👯 I’m looking forward to **being familiar with various interesting projects.**
+- 👯 I’m looking forward to **be a part of various interesting projects.**
 
 - 🤝 I’m eager to know about **opportunities which will help me in expanding my potential.**
 
