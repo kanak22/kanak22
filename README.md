@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/kanak ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanak ." height="30" width="40" /></a>
 <a href="https://fb.com/kanak singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kanak singh" height="30" width="40" /></a>
 
-- 🔭 I’m a **B.Tech student from GGSIPU University, Delhi.**
+- 🔭 I’m a **pre-final year B.Tech student from GGSIPU University, Delhi.**
   
 - 🌞 I am an **open-source enthusiast** and a **full-stack developer** along with other skills like C & C++.
 
