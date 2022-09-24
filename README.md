@@ -9,7 +9,7 @@
 <p align="center">
 <a href="https://twitter.com/kanak2212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanak2212" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kanak ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanak ." height="30" width="40" /></a>
-<a href="https://fb.com/kanak singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kanak singh" height="30" width="40" /></a>
+
 
 - 🔭 I’m a **pre-final year B.Tech student from GGSIPU University, Delhi.**
   
