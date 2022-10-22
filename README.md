@@ -15,7 +15,7 @@
   
 - 🌞 I am an **open-source enthusiast** and a **full-stack developer** along with other skills like C & C++.
 
-- 📙 In my free time, **I love reading quotes**.
+- 📙 In my free time, **I love reading quotes & novels**.
 
 - 🌱 I’m currently focusing on **DSA.**
 
